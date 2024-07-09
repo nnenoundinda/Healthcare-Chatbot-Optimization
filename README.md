@@ -34,7 +34,7 @@ Optimizing a healthcare chatbot to improve patient interactions using machine le
 
 ## Notebooks
 - [Google Colab Notebook](https://colab.research.google.com/drive/1nd50rOplxpgKD2RMhOLV2bLjsyx7vlM8)
-- 
+
 ## External References
 [Project Description by Professor](https://mimrtl.radiology.wisc.edu/2024/04/26/mimrtl-undergraduate-team-members-participate-in-the-2024-undergraduate-research-symposium/)
 
