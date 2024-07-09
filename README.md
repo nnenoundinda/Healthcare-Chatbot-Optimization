@@ -28,6 +28,7 @@ Optimizing a healthcare chatbot to improve patient interactions using machine le
 ## Project Structure
 - `data/`: Contains the datasets used.
 - `src/`: Contains source code.
+  - [Chatbot Script](src/chatbotscript.py)
 - `notebooks/`: Contains Jupyter notebooks for analysis.
 - `docs/`: Contains additional documentation.
 - `presentations/`: Contains presentation slides.
@@ -36,7 +37,7 @@ Optimizing a healthcare chatbot to improve patient interactions using machine le
 - [Google Colab Notebook](https://colab.research.google.com/drive/1nd50rOplxpgKD2RMhOLV2bLjsyx7vlM8)
 
 ## External References
-[Project Description by Professor](https://mimrtl.radiology.wisc.edu/2024/04/26/mimrtl-undergraduate-team-members-participate-in-the-2024-undergraduate-research-symposium/)
+- [Project Description by Professor](https://mimrtl.radiology.wisc.edu/2024/04/26/mimrtl-undergraduate-team-members-participate-in-the-2024-undergraduate-research-symposium/)
 
 ## Presentation
-- [Healthcare Chatbot Optimization Presentation](presentations/Healthcare-Chatbot-Optimization-Presentation.pptx)
+- [Healthcare Chatbot Optimization Presentation](presentations/Final%20Presenation%20Medical%20Chatbot.pdf)
